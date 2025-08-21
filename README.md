@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on NTTDATA EUROPE & LATAM
+- 🔭 I’m currently working on INETUM PERÚ
 - 🌱 I’m currently learning NODEJS
 
 <!--
